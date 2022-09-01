@@ -15,6 +15,10 @@ function checkLocation() {
 	// TODO
 }
 
+/* Exercise 2 (a bit more advanced): 
+ * Add an embedded map to the index.html and link the geoposition 
+ * to this map. You can use a third-party library like https://leafletjs.com */
+
 function locate() {
 	if (!navigator.geolocation) {
 		loc.textContent = 'Geolocation is not supported by your browser';
