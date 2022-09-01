@@ -25,5 +25,6 @@ ctx.fillRect(xpos+25, ypos+25, rheight-50, rwidth-50);
 
 /* Exercise 2:
  * Implement a button on click action that creates a random objects
- * in the canvase field
- * HINT: uncomment the button in the html file */
+ * in the canvas field
+ * HINT: get the button element from the html with document.getElementById and
+ * use the addEventListener functionality */
