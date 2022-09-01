@@ -1,4 +1,11 @@
 body {
   margin: 0;
   overflow: hidden;
+  background: #eee;
+}
+
+#btn {
+	position: absolute;
+	display: block;
+	margin: 0 auto;
 }
